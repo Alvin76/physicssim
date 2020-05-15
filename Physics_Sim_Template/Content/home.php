@@ -52,7 +52,7 @@
       <h1 class= " font-weight-bold text-center">Welcome to PhysicsSim </h1>
 
       <p class="text-center">An Intelligent Tutoring System to Teach Kinematics</p>
-      <button type="button" class=" text-center btn btn-lg" style="background-color: #edac17" onclick="window.location.href" = "https://www.google.com">Get Started</button>
+      <button type="button" class=" text-center btn btn-lg" style="background-color: #edac17" onclick= "https://www.google.com">Get Started</button>
     </div>
 ../../
 
