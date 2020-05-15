@@ -9,7 +9,11 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
      <link rel="stylesheet" href="../CSS/styles.css">
     <title>Physics Sim</title>
-
+    <script>
+      function openWin() {
+        window.open("https://www.w3schools.com");
+      }
+      </script>
 
   </head>
   <body>
@@ -53,7 +57,7 @@
 
       <p class="text-center">An Intelligent Tutoring System to Teach Kinematics</p>
       <form class="" action="index.html" method="post">
-              <button type="button" class=" text-center btn btn-lg" value="Open Window" style="background-color: #edac17" onclick= "https://www.google.com">Get Started</button>
+              <button type="button" class=" text-center btn btn-lg" value="Open Window" style="background-color: #edac17" onclick= "openWin()">Get Started</button>
       </form>
     </div>
 ../../
