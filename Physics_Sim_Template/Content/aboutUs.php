@@ -14,7 +14,7 @@
   </head>
   <body>
   <!--NavBar-->
-  <?php navbar()?>
+  <?php /*navbar()*/?>
     <section id="nav-bar">
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <a class="navbar-brand text-white" href="home.php">PhysicsSim</a>
