@@ -53,9 +53,9 @@
 
       <p class="text-center">An Intelligent Tutoring System to Teach Kinematics</p>
       <button type="button" class=" text-center btn btn-lg" style="background-color: #edac17"
-      href="https://physicssim.000webhostapp.com/PhysicsSim/webBuild/index.html">Get Started</button>
+      href="www.google.com">Get Started</button>
     </div>
-
+../../
 
 
     <!--Section1-->
