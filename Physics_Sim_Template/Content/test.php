@@ -7,7 +7,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-     <link rel="stylesheet" href="Physics Sim Template/CSS/styles.css">
+     <link rel="stylesheet" href="../CSS/styles.css">
     <title>Physics Sim</title>
 
 
@@ -52,13 +52,13 @@
       <h1 class= " font-weight-bold text-center">Welcome to PhysicsSim </h1>
 
       <p class="text-center">An Intelligent Tutoring System to Teach Kinematics</p>
-     
+
       <a href="https://physicssim.000webhostapp.com/PhysicsSim/webBuild/index.html">to application</a>
     </div>
 
 
 
- 
+
 
 
 
